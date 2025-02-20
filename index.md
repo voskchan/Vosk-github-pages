@@ -33,3 +33,14 @@ The improvements I made to this code were:
 
 ## Algorithms and Data Structure: File Encryption
 
+The artifact I chose for this category was my work in file encryption in CS 405. The original creation of this application took an input file and then, using a hardcoded password, performed an XOR cipher on the file. It then output the file as two seperate files, one encrypted and the other decrypted from running the XOR xipher again. I chose this artifact as it showcases my ability to create secure code and create a more secure cipher.
+
+The original creation of this code was missing checks to ensure there was an actual input file. It also used a hard coded password. In longer messages with an XOR cipher this can result in a potential pattern that can be broken. The enhancements I made to this artifact are:
+- File checks in order to prevent crashes
+- Randomized key generation for cipher
+- Key generation to the length of text to prevent pattern breaking
+- Addition of a new seperate key file to track generated key
+
+  ## Databases: CS 340 Grazioso Salvare
+
+  The artifact I chose for this category was my work in CS 340
