@@ -41,6 +41,8 @@ The original creation of this code was missing checks to ensure there was an act
 - Key generation to the length of text to prevent pattern breaking
 - Addition of a new seperate key file to track generated key
 
-  ## Databases: CS 340 Grazioso Salvare
+## Databases: CS 340 Grazioso Salvare
 
-  The artifact I chose for this category was my work in CS 340
+The artifact I chose for this category was my work in CS 340. In the original creation of this work I created a website linked to a database. This database was used to display animals in shelters that could be potential candidates for the company to use for rescue operations. I chose to use this as my artifact as it would showcase my ability to create a databse as well as link this database to a program to display information.
+
+As the original creation of this work was made in the apporto virtual lab the code was created to run on a linux based enviroment. The main problem I had to overcome with this project was recreating the project within a windows enviroment and running the project. The other problem I encountered was that I no longer had access to the database that the work pulled from  
