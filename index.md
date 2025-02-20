@@ -15,13 +15,20 @@ My name is Chance Vosk, I majored in Computer Science at Southern New Hampshire 
 
 ## Self Assessment
 
+Through my time at SNHU studying Computer Science I have gained many skills and abilities that have enhanced my coding performance. My courses here have given me a strong basis on learning how to collaborate in a team enviroment. Specifically my CS 310 work where we were tasked with working together in one code base through Bitbucket. This course helped me to understand how to code in order to prevent overlap of code from other team members and how to perform code reviews on other team members work. 
+
+One of the other skills I have learned is how to communicate with stakeholders. In my CS 250 class I learned about the software development lifecycle and for part of the class took on the role of a project manager tasked with communicating with stakeholders. Through this course I learned how to gather software requirements and communicate the development progress with stakeholders in order to show progress on a project. 
+
+All of my courses here at SNHU also taught me to produce code that is easily readable and well documented. My projects throughout my curriculum have strengthed my ability to design software by presenting me with projects in order to challenge my thinking on how to achieve the goal. The classes have also taught me a variety of coding languages that I have become more familiar with now, letting me code in more enviroments with ease. Many of my later classes have focused on projects that integrate databses in some way and has led me to learn how to leverage databses in order to track data and present it in a easy to read form. 
+
+The artifacts presented below showcase the improvements in my strengths from earlier work in my classes. These artifacts also showcase my strengths in software design, algorithms, and databases. As I am focused on a Full Stack Development career these are all very important skills to have and these artifacts showcase my proficiency in them.
 
 ## Code Review
 
 
 ## Software Design and Engineering: Appointment Tracker
 
-The artifact I chose for this category was the Appointment tracker I created in CS 320. This application was originally created to learn JUnit testing and did not have much actual user functionality. The JUnit test were designed to fully cover the code to showcase how they can be used for autometed testing so user functionality was not necessary for the purposes of the assignment.
+The artifact I chose for this category was the Appointment tracker I created in CS 320. This application was originally created to learn JUnit testing and did not have much actual user functionality. The JUnit test were designed to fully cover the code to showcase how they can be used for automated testing so user functionality was not necessary for the purposes of the assignment.
 
 I chose to enhance this artifact as it allowed me to demonstrate my abilities to create software with user functionality as well as create automated testing for the code to ensure it will stay working throughout future updates. I also chose this for the challenge of updating the application to link an appointment with a contact as well as create a way for a user to interface with the application. 
 
