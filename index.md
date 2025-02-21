@@ -60,4 +60,11 @@ This artifact helped me to reach course outcomes 3 and 5. By updating the securi
 
 The artifact I chose for this category was my work in CS 340. In the original creation of this work I created a website linked to a database. This database was used to display animals in shelters that could be potential candidates for the company to use for rescue operations. I chose to use this as my artifact as it would showcase my ability to create a databse as well as link this database to a program to display information.
 
-As the original creation of this work was made in the apporto virtual lab the code was created to run on a linux based enviroment. The main problem I had to overcome with this project was recreating the project within a windows enviroment and running the project. The other problem I encountered was that I no longer had access to the database that the work pulled from  
+As the original creation of this work was made in the apporto virtual lab the code was created to run on a linux based enviroment. The main problem I had to overcome with this project was recreating the project within a windows enviroment and running the project. The other problem I encountered was that I no longer had access to the database that the work pulled from. I did have the csv file though which made rebuilding the database much easier. The improvements made to thsi artifact were:
+- Recreation of the application in Windows
+- Creation of a MongoDB Atlas database
+- Map feature of the website displays pins properly
+
+Returning to this code presented me with a lot of challenges to start with as I was not sure where to start on creating a database for the application. After a bit of research and learning ways to implement MongoDB I landed on an Atlas databse as it would allow me to manage one database while implementing the application in many places. This would keep clients from each needing to set up a local database.
+
+This artifact helped me to reach course outcome 4. By using a web based database in order to allow for future distribution of the application I have created a well-founded base for the application that would allow for the client to easily expand. 
