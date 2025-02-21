@@ -38,6 +38,10 @@ The improvements I made to this code were:
 - Addition of Contact requirement when creating an Appointment
 - Additional JUnit tests to further cover edge cases
 
+During the process of enhancing this artifact I was able to see how much progress I have made in my coding ability. The original test cases for the project did pass a coverage test for the entire code but when it came to actual test cases it left many possibilities for failure open. Returning to these tests I was able to see the issues with them having more experience than I had when I created the code. Creating the ServiceDriver class to run the application was also an area of big improvement. In the original implementation there was not a way to keep a Contact list and an Appointment list running at the same time. by creating the ServiceDriver class I was able to resolve this issue and allow for an application that keeps track of both. 
+
+This artifact improvement helped me to reach course outcomes 1, 2, and 4. By creating clean code that is well commented I can help to build a collaborative enviroment for any team that could be potentially working with my code later. It also achieves professional level communications adapted for the audience that will be working with the code. By creating the ServiceDriver class I was able to use my abilities to create a well-founded solution to the problem of the artifact not having any sort of user interface. 
+
 ## Algorithms and Data Structure: File Encryption
 
 The artifact I chose for this category was my work in file encryption in CS 405. The original creation of this application took an input file and then, using a hardcoded password, performed an XOR cipher on the file. It then output the file as two seperate files, one encrypted and the other decrypted from running the XOR xipher again. I chose this artifact as it showcases my ability to create secure code and create a more secure cipher.
