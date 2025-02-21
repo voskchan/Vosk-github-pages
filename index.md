@@ -46,7 +46,7 @@ This artifact improvement helped me to reach course outcomes 1, 2, and 4. By cre
 
 ## Algorithms and Data Structure: File Encryption
 
-The artifact I chose for this category was my work in file encryption in CS 405. The original creation of this application took an input file and then, using a hardcoded password, performed an XOR cipher on the file. It then output the file as two seperate files, one encrypted and the other decrypted from running the XOR xipher again. I chose this artifact as it showcases my ability to create secure code and create a more secure cipher.
+The artifact I chose for this category was my work in file encryption in CS 405. The [original creation](https://github.com/voskchan/File-Encryption-Pre-Enhancement) of this application took an input file and then, using a hardcoded password, performed an XOR cipher on the file. It then output the file as two seperate files, one encrypted and the other decrypted from running the XOR xipher again. I chose this artifact as it showcases my ability to create secure code and create a more secure cipher.
 
 The original creation of this code was missing checks to ensure there was an actual input file. It also used a hard coded password. In longer messages with an XOR cipher this can result in a potential pattern that can be broken. The enhancements I made to this artifact are:
 - File checks in order to prevent crashes
@@ -54,19 +54,21 @@ The original creation of this code was missing checks to ensure there was an act
 - Key generation to the length of text to prevent pattern breaking
 - Addition of a new seperate key file to track generated key
 
+The updated artifact can be found [here](https://github.com/voskchan/File-Encryption-Post-Enhancement).
 Coming back to this assignment and looking at the code again allowed for me to learn more about software security and enhance my abilities in it. One of the main issues was that there was no check for an input file, without one the program would crash and lead to potential security issues. Wanting to create a more secure XOR cipher lead me to learn a lot more about how encryption works. This lead me to creating a key generated to the length of the input data. 
 
 This artifact helped me to reach course outcomes 3 and 5. By updating the security involved within the application I met course outcome 5 by reducing the potential vunerabilities in the application. By updating my XOR cipher I have solved a problem through the use of a algorithmic solution. 
 
 ## Databases: CS 340 Grazioso Salvare
 
-The artifact I chose for this category was my work in CS 340. In the original creation of this work I created a website linked to a database. This database was used to display animals in shelters that could be potential candidates for the company to use for rescue operations. I chose to use this as my artifact as it would showcase my ability to create a databse as well as link this database to a program to display information.
+The artifact I chose for this category was my work in CS 340. In the [original creation](https://github.com/voskchan/AAC-Pre-Enhancement) of this work I created a website linked to a database. This database was used to display animals in shelters that could be potential candidates for the company to use for rescue operations. I chose to use this as my artifact as it would showcase my ability to create a databse as well as link this database to a program to display information.
 
-As the original creation of this work was made in the apporto virtual lab the code was created to run on a linux based enviroment. The main problem I had to overcome with this project was recreating the project within a windows enviroment and running the project. The other problem I encountered was that I no longer had access to the database that the work pulled from. I did have the csv file though which made rebuilding the database much easier. The improvements made to thsi artifact were:
+As the original creation of this work was made in the apporto virtual lab the code was created to run on a linux based enviroment. The main problem I had to overcome with this project was recreating the project within a windows enviroment and running the project. The other problem I encountered was that I no longer had access to the database that the work pulled from. I did have the csv file though which made rebuilding the database much easier. The improvements made to this artifact were:
 - Recreation of the application in Windows
 - Creation of a MongoDB Atlas database
 - Map feature of the website displays pins properly
 
+The enhanced artifact can be found [here](https://github.com/voskchan/AAC-Post-Enhancement).
 Returning to this code presented me with a lot of challenges to start with as I was not sure where to start on creating a database for the application. After a bit of research and learning ways to implement MongoDB I landed on an Atlas databse as it would allow me to manage one database while implementing the application in many places. This would keep clients from each needing to set up a local database.
 
 This artifact helped me to reach course outcome 4. By using a web based database in order to allow for future distribution of the application I have created a well-founded base for the application that would allow for the client to easily expand. 
