@@ -52,6 +52,10 @@ The original creation of this code was missing checks to ensure there was an act
 - Key generation to the length of text to prevent pattern breaking
 - Addition of a new seperate key file to track generated key
 
+Coming back to this assignment and looking at the code again allowed for me to learn more about software security and enhance my abilities in it. One of the main issues was that there was no check for an input file, without one the program would crash and lead to potential security issues. Wanting to create a more secure XOR cipher lead me to learn a lot more about how encryption works. This lead me to creating a key generated to the length of the input data. 
+
+This artifact helped me to reach course outcomes 3 and 5. By updating the security involved within the application I met course outcome 5 by reducing the potential vunerabilities in the application. By updating my XOR cipher I have solved a problem through the use of a algorithmic solution. 
+
 ## Databases: CS 340 Grazioso Salvare
 
 The artifact I chose for this category was my work in CS 340. In the original creation of this work I created a website linked to a database. This database was used to display animals in shelters that could be potential candidates for the company to use for rescue operations. I chose to use this as my artifact as it would showcase my ability to create a databse as well as link this database to a program to display information.
