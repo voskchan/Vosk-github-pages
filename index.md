@@ -28,7 +28,7 @@ The artifacts presented below showcase the improvements in my strengths from ear
 
 ## Software Design and Engineering: Appointment Tracker
 
-The artifact I chose for this category was the [Appointment tracker] (https://github.com/voskchan/Appointment-Pre-Enhancement) I created in CS 320. This application was originally created to learn JUnit testing and did not have much actual user functionality. The JUnit test were designed to fully cover the code to showcase how they can be used for automated testing so user functionality was not necessary for the purposes of the assignment.
+The artifact I chose for this category was the [Appointment tracker](https://github.com/voskchan/Appointment-Pre-Enhancement) I created in CS 320. This application was originally created to learn JUnit testing and did not have much actual user functionality. The JUnit test were designed to fully cover the code to showcase how they can be used for automated testing so user functionality was not necessary for the purposes of the assignment.
 
 I chose to enhance this artifact as it allowed me to demonstrate my abilities to create software with user functionality as well as create automated testing for the code to ensure it will stay working throughout future updates. I also chose this for the challenge of updating the application to link an appointment with a contact as well as create a way for a user to interface with the application. 
 
@@ -38,7 +38,7 @@ The improvements I made to this code were:
 - Addition of Contact requirement when creating an Appointment
 - Additional JUnit tests to further cover edge cases
 
-The updated Appointment tracker can be found [here] (https://github.com/voskchan/Appointment-Post-Enhancement).
+The updated Appointment tracker can be found [here](https://github.com/voskchan/Appointment-Post-Enhancement).
 
 During the process of enhancing this artifact I was able to see how much progress I have made in my coding ability. The original test cases for the project did pass a coverage test for the entire code but when it came to actual test cases it left many possibilities for failure open. Returning to these tests I was able to see the issues with them having more experience than I had when I created the code. Creating the ServiceDriver class to run the application was also an area of big improvement. In the original implementation there was not a way to keep a Contact list and an Appointment list running at the same time. by creating the ServiceDriver class I was able to resolve this issue and allow for an application that keeps track of both. 
 
