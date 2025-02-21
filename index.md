@@ -21,7 +21,7 @@ One of the other skills I have learned is how to communicate with stakeholders. 
 
 All of my courses here at SNHU also taught me to produce code that is easily readable and well documented. My projects throughout my curriculum have strengthed my ability to design software by presenting me with projects in order to challenge my thinking on how to achieve the goal. The classes have also taught me a variety of coding languages that I have become more familiar with now, letting me code in more enviroments with ease. Many of my later classes have focused on projects that integrate databses in some way and has led me to learn how to leverage databses in order to track data and present it in a easy to read form. 
 
-The artifacts presented below showcase the improvements in my strengths from earlier work in my classes. These artifacts also showcase my strengths in software design, algorithms, and databases. As I am focused on a Full Stack Development career these are all very important skills to have and these artifacts showcase my proficiency in them.
+The artifacts presented below showcase the improvements in my strengths from earlier work in my classes. These artifacts also showcase my strengths in software design, algorithms, and databases. As I am focused on a Full Stack Development career these are all very important skills to have and these artifacts showcase my proficiency in them. These also showcase my ability to code across a variety of languages and create code that can be easily reused.
 
 ## Code Review
 
