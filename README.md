@@ -25,6 +25,7 @@ The artifacts presented below showcase the improvements in my strengths from ear
 
 ## Code Review
 
+My Code Review for my pre-enhancement artifacts can be found [here](https://youtu.be/kmxNzmgxKD4) 
 
 ## Software Design and Engineering: Appointment Tracker
 
